@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7A68760-4D3D-4D13-BD76-26C0EB94F28B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E529C09-D66E-4504-BD2B-BADCDDB8DDC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flixy/MovieViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "Movie_MovieViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0E529C09-D66E-4504-BD2B-BADCDDB8DDC2 - 246b88f25eace917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixy.Movie_MovieViewController.movies.getter : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Flixy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anc009/Downloads/Flixy2-master/Flixy/Flixy/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "0E529C09-D66E-4504-BD2B-BADCDDB8DDC2 - 2df5822aae09a90f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixy.Movie_MovieViewController.movies.setter : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Flixy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anc009/Downloads/Flixy2-master/Flixy/Flixy/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "0E529C09-D66E-4504-BD2B-BADCDDB8DDC2 - 12efb29905a03929"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixy.Movie_MovieViewController.movies.modify : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Flixy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anc009/Downloads/Flixy2-master/Flixy/Flixy/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "0E529C09-D66E-4504-BD2B-BADCDDB8DDC2 - c2e0b3837aac95f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixy.Movie_MovieViewController.movies.modify : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flixy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anc009/Downloads/Flixy2-master/Flixy/Flixy/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "0E529C09-D66E-4504-BD2B-BADCDDB8DDC2 - 7da03626d82b6b53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixy.Movie_MovieViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flixy.Movie_MovieViewController"
+                  moduleName = "Flixy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anc009/Downloads/Flixy2-master/Flixy/Flixy/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "0E529C09-D66E-4504-BD2B-BADCDDB8DDC2 - 80c5efece213de58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixy.Movie_MovieViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flixy.Movie_MovieViewController&gt;"
+                  moduleName = "Flixy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anc009/Downloads/Flixy2-master/Flixy/Flixy/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
